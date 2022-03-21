@@ -1,7 +1,7 @@
 project(
   'toml2json',
   'cpp',
-  version : '0.0.1-dev',
+  version : '0.0.1',
   meson_version : '>= 0.60',
   default_options : ['cpp_std=c++17']
 )
